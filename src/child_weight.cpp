@@ -202,7 +202,7 @@ NumericVector Child::FMReference(NumericVector t){
     fm_ref(4,_)   = 9.31*(1 - sex) + 10.59*sex;
     fm_ref(5,_)   = 9.78*(1 - sex) + 11.98*sex;
     fm_ref(6,_)   = 12.92*(1 - sex) + 12.78*sex;
-    fm_ref(7,_)   = 13.20(1 - sex) + 15.16*sex;
+    fm_ref(7,_)   = 13.20*(1 - sex) + 15.16*sex;
     fm_ref(8,_)   = 16.05*(1 - sex) + 18.02*sex;
     fm_ref(9,_)   = 17.37*(1 - sex) + 21.34*sex;
     fm_ref(10,_)  = 20.25*(1 - sex) + 23.78*sex;
